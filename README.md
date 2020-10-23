@@ -1,6 +1,5 @@
 
-
-<img src="fig/2_background/kernelviz_100.jpg" alt="drawing" width="500"/>
+![viz](fig/jpgs/kernviz2.png)
 
 # Authorship-Attribution
 My master thesis [[1]](#1) in Statistics at Uppsala University about Authorship attribution using the vector space model and kernel methods
