@@ -2,7 +2,7 @@
 ![viz](fig/jpgs/kernviz3.png "Visualization of linear kernel matrix")
 
 # Authorship-Attribution
-My master thesis [[1]](#1) in Statistics at Uppsala University about Authorship attribution using the vector space model and kernel methods
+My master thesis [[1]](#1) in Statistics at Uppsala University about Authorship classification using the vector space model and kernel methods
 
 > Author: Emil Westin. 
 
